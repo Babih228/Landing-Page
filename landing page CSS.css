@@ -1,0 +1,14 @@
+.gradient-text {
+    background: linear-gradient(90deg, #6B46C1 0%, #EC4899 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.contact-input:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #8B5CF6;
+}
+```
+
+```javascript
